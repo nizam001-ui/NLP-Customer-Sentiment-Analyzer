@@ -107,7 +107,6 @@ NLP-Customer-Sentiment-Analyzer/
 │   ├── 2_dashboard_preview.png
 │   └── 3_dashboard_preview.png
 │
-├── .gitignore
 └── README.md
 ```
 
