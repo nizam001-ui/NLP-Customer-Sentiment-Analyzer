@@ -1,0 +1,21 @@
+Review_Date,Customer_Name,Rating,Review_Text,Sentiment_Category,Polarity_Score
+2026-05-01,User1,5,Absolutely love this machine! The coffee is hot and brews perfectly.,Positive,0.625
+2026-05-02,User2,1,Terrible. It arrived broken and leaks water everywhere.,Negative,-0.7
+2026-05-03,User3,4,"Good value for the money, but a bit loud.",Positive,0.39999999999999997
+2026-05-04,User4,2,Stopped working after a week. Customer service ignored me.,Neutral,0.0
+2026-05-05,User5,5,Best espresso maker I have ever owned. Highly recommend!,Positive,0.6
+2026-05-06,User6,5,"Fast shipping, great taste, very easy to clean.",Positive,0.48250000000000004
+2026-05-07,User7,3,"It is okay. Nothing special, just a standard coffee pot.",Positive,0.28571428571428575
+2026-05-08,User8,1,Complete garbage. The plastic tastes like chemicals.,Neutral,0.1
+2026-05-09,User9,4,"Solid machine, makes a great morning cup.",Positive,0.4
+2026-05-10,User10,5,Five stars! Beautiful design and great functionality.,Positive,0.825
+2026-05-11,User11,2,The frother is weak and barely works.,Negative,-0.1625
+2026-05-12,User12,1,Do not buy this. It burned my counter.,Neutral,0.0
+2026-05-13,User13,5,Perfection. I use it every single morning.,Neutral,-0.07142857142857142
+2026-05-14,User14,4,"Nice features, but the water tank is a bit small.",Positive,0.175
+2026-05-15,User15,3,"Average brew time, slightly difficult to program.",Negative,-0.325
+2026-05-16,User16,5,A lifesaver for early mornings. So fast!,Positive,0.175
+2026-05-17,User17,2,Too expensive for the quality you get.,Negative,-0.5
+2026-05-18,User18,1,"Horrible experience, returning it tomorrow.",Negative,-1.0
+2026-05-19,User19,5,Incredible flavor extraction. Worth every penny.,Positive,0.6
+2026-05-20,User20,4,"Very good, just wish it came with a reusable filter.",Positive,0.9099999999999999
